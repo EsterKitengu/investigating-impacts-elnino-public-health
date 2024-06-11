@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @EsterKitengu
-- 👀 I’m interested in mathematical modelling and climate change
+- 👋 Hi, I’m @EsterKitengu. I’m interested in mathematical modelling and climate change
 - 🌱 I’m currently investigating the impacts of El Nino 2023 on public health in Kenya and future projections
   
 
